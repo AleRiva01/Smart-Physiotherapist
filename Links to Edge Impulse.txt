@@ -1,0 +1,41 @@
+The trials reported in the appendix of the document were carried out by two people, thus they are ordered as: all the tests performed by the first person, then all the tests performed by the second person.
+Below are all the links to Edge Impulse:
+
+------------------------------------------
+
+1st part
+
+Smart Physiotherapist- Trials 1-2-3 (140x125): https://studio.edgeimpulse.com/public/614858/live
+
+Smart Physiotherapist- Trials 4-5+1 (140x125 + 125x125 squashed, transfer learning): https://studio.edgeimpulse.com/public/614944/live
+
+Smart Physiotherapist- Trials 1 (112x100 squashed): https://studio.edgeimpulse.com/public/614989/live
+
+Smart Physiotherapist- Trials 1-2-3 (80x125): https://studio.edgeimpulse.com/public/614999/live
+
+Smart Physiotherapist- Trials 4-5-6 (80x125): https://studio.edgeimpulse.com/public/615260/live
+
+Smart Physiotherapist- Trials 7-8-9 (80x125): https://studio.edgeimpulse.com/public/615275/live
+
+Smart Physiotherapist- Trials 1-2-3 (40x125, 2 classes,1 antenna): https://studio.edgeimpulse.com/public/615291/live
+
+Smart Physiotherapist- Trials 1-2-3 (80x125, 2 classes, 2 antennas): https://studio.edgeimpulse.com/public/615344/live
+
+
+------------------------------------------
+
+2nd part
+
+Smart Physiotherapist - Trials 1-2-3 (140x125): https://studio.edgeimpulse.com/public/614857/live
+
+Smart Physiotherapist - Trials 4-5+1 (140x125 + squashed 80%): https://studio.edgeimpulse.com/public/614915/live
+
+Smart Physiotherapist -  Trails 1-2 (Squashed 50%): https://studio.edgeimpulse.com/public/614990/live
+
+Smart Physiotherapist - Trials 1-2-3 (80x125): https://studio.edgeimpulse.com/public/615070/live
+
+Smart Physiotherapist - Trials 4-5-6 (80x125): https://studio.edgeimpulse.com/public/615080/live
+
+Smart physiotherapist - Trials 7-8-9 (80x125): https://studio.edgeimpulse.com/public/615086/live
+
+Smart Physiotherapist - Trials 10-11-12 (80x125): https://studio.edgeimpulse.com/public/615119/live
